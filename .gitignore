@@ -1,3 +1,10 @@
 out/
 .vs/
 *.user
+cmake-build-*/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.s
