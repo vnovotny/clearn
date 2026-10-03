@@ -15,3 +15,4 @@ else()
 endif()
 
 add_subdirectory(lekce/01-zaklad)
+add_subdirectory(lekce/02-typy)
